@@ -57,5 +57,5 @@ Analyzed Adventure Works’ shipping and sales data, visualizing top shipping ci
 
 I am eager to collaborate with fellow data enthusiasts and professionals. Whether you're interested in discussing project methodologies, exploring potential collaborations, or sharing feedback, please feel free to reach out.
 
-- LinkedIn: [https://www.linkedin.com/in/haiqingliu47/]
-- Email: [haiqingliu21@gmail.com]
+- LinkedIn: [@haiqingliu](https://www.linkedin.com/in/haiqingliu47/)
+- Email: haiqingliu21@gmail.com
