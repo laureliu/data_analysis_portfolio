@@ -36,22 +36,22 @@ The goal of this project was to develop a machine learning model to classify bre
 ## Dashboard Projects
 
 ### Park City Peaks Hotel
-Analyzed monthly bookings, cancellations, repeat guest statistics, food preferences, and booking types (individual vs. family) for Park City Peaks Hotel, using data extracted from their booking system. [View Dashboards](https://public.tableau.com/app/profile/haiqing.liu6498/viz/HotelBookingsDashboard_17067415021230/Dashboard1)
+Analyzed monthly bookings, cancellations, repeat guest statistics, food preferences, and booking types (individual vs. family) for Park City Peaks Hotel, using data extracted from their booking system. [View Dashboard](https://public.tableau.com/app/profile/haiqing.liu6498/viz/HotelBookingsDashboard_17067415021230/Dashboard1)
 
 ### GreatFit
-Visualized customer reviews, highlighting sentiments, divisional analysis, product recommendations, and mentions of returns, aiding in customer experience improvement. [View Dashboards](https://public.tableau.com/app/profile/haiqing.liu6498/viz/GreatFitReviewDashboard_17067471425190/GreatFitReviewDashboard)
+Visualized customer reviews, highlighting sentiments, divisional analysis, product recommendations, and mentions of returns, aiding in customer experience improvement. [View Dashboard](https://public.tableau.com/app/profile/haiqing.liu6498/viz/GreatFitReviewDashboard_17067471425190/GreatFitReviewDashboard)
 
 ### MegaMart
-Focused on sales agent performance, monthly sales data, product category analysis, top SKUs, and product categories, enhancing sales strategy and product focus. [View Dashboards](https://public.tableau.com/app/profile/haiqing.liu6498/viz/SalesAgentDashboard_17067601298400/SalesDashboard)
+Focused on sales agent performance, monthly sales data, product category analysis, top SKUs, and product categories, enhancing sales strategy and product focus. [View Dashboard](https://public.tableau.com/app/profile/haiqing.liu6498/viz/SalesAgentDashboard_17067601298400/SalesDashboard)
 
 ### Google Stocks
-A daily-updated dashboard for monitoring Google stock performance, featuring open and close prices, percentage changes, and historical price trends to support investment decisions. [View Dashboards](https://public.tableau.com/app/profile/haiqing.liu6498/viz/GoogleStocksDashboard/GoogleStocksDashboard)
+A daily-updated dashboard for monitoring Google stock performance, featuring open and close prices, percentage changes, and historical price trends to support investment decisions. [View Dashboard](https://public.tableau.com/app/profile/haiqing.liu6498/viz/GoogleStocksDashboard/GoogleStocksDashboard)
 
 ### OLIST Logistics
-Tracked order delivery status against estimated delivery dates, addressing customer satisfaction and optimizing the delivery process. [View Dashboards](https://public.tableau.com/app/profile/haiqing.liu6498/viz/OlistDashboard_17068027935590/OlistDashboard)
+Tracked order delivery status against estimated delivery dates, addressing customer satisfaction and optimizing the delivery process. [View Dashboard](https://public.tableau.com/app/profile/haiqing.liu6498/viz/OlistDashboard_17068027935590/OlistDashboard)
 
 ### Adventure Works Sales and Shipping
-Analyzed Adventure Works’ shipping and sales data, visualizing top shipping cities, sales per city, top customers, and sales agents to inform strategic decisions and customer engagement strategies. [View Dashboards](https://public.tableau.com/app/profile/haiqing.liu6498/viz/DashboardStory_17068065385170/AdventureWorksDashboard)
+Analyzed Adventure Works’ shipping and sales data, visualizing top shipping cities, sales per city, top customers, and sales agents to inform strategic decisions and customer engagement strategies. [View Dashboard](https://public.tableau.com/app/profile/haiqing.liu6498/viz/DashboardStory_17068065385170/AdventureWorksDashboard)
 
 ## Let's Connect
 
