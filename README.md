@@ -14,16 +14,13 @@ Welcome to my Data Analytics and Data Science portfolio! This repository serves 
 Each project folder contains:
 - A comprehensive README that outlines the project's objective, methodology, tools used, and key findings.
 - Source code, including Jupyter notebooks, SQL scripts, and dashboard files, with detailed comments explaining the logic and techniques employed.
-- Datasets used in the projects, where applicable, or links to publicly available datasets.
 - Visualizations and results, including charts, graphs, and interactive dashboard screenshots or links.
   
 
 ## Python Projects
 
-### YouTube Comment Sentiment Analysis
+### [YouTube Comment Sentiment Analysis](https://github.com/laureliu/Youtube-text-analysis)
 This project focuses on analyzing sentiments of YouTube comments and engagement metrics of YouTube videos across different categories. It includes sentiment analysis, word cloud visualization, emoji usage analysis, and engagement rate comparisons, employing libraries like TextBlob for sentiment analysis and seaborn for visualization.
-
-[Read more about this project](link-to-project-folder)
 
 ### Breast Cancer Classification
 The goal of this project was to develop a machine learning model to classify breast cancer tumors into malignant or benign categories. Utilizing the Breast Cancer Wisconsin (Diagnostic) dataset, this project involved exploratory data analysis, feature scaling, model selection (SVC model), and parameter tuning with GridSearchCV for optimal performance.
