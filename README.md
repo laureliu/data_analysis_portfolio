@@ -28,10 +28,10 @@ Each project folder contains:
   
 ## Python Projects
 
-### [YouTube Comment Sentiment Analysis](https://github.com/laureliu/Youtube-text-analysis)
+### [YouTube Comment Sentiment Analysis](https://github.com/laureliu/data_analysis_portfolio/tree/main/Youtube%20Text%20Analysis)
 This project focuses on analyzing sentiments of YouTube comments and engagement metrics of YouTube videos across different categories. It includes sentiment analysis, word cloud visualization, emoji usage analysis, and engagement rate comparisons, employing libraries like TextBlob for sentiment analysis and seaborn for visualization.
 
-### [Breast Cancer Classification](https://github.com/laureliu/breast-cancer-classification)
+### [Breast Cancer Classification](https://github.com/laureliu/data_analysis_portfolio/tree/main/Breast%20Cancer%20Classification)
 The goal of this project was to develop a machine learning model to classify breast cancer tumors into malignant or benign categories. Utilizing the Breast Cancer Wisconsin (Diagnostic) dataset, this project involved exploratory data analysis, feature scaling, model selection (SVC model), and parameter tuning with GridSearchCV for optimal performance.
 
 ## SQL Projects
