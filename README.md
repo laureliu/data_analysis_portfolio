@@ -36,7 +36,7 @@ The goal of this project was to develop a machine learning model to classify bre
 
 ## SQL Projects
 
-### [Traffic Source Analysis and Optimization](https://github.com/laureliu/data_analysis_portfolio/tree/main/Breast%20Cancer%20Classification)
+### [Traffic Source Analysis and Optimization](https://github.com/laureliu/data_analysis_portfolio/tree/main/Traffic%20Source%20Analysis)
 This project focuses on analyzing and optimizing web traffic sources for an e-commerce platform. By examining website sessions, orders, and conversion rates, the project aims to identify top traffic sources, assess their effectiveness, and optimize bidding strategies for paid traffic. The analysis is grounded on data extracted from website_sessions and orders tables, focusing on key metrics such as session counts, order counts, and conversion rates.
 
 
