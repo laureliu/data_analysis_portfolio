@@ -1,22 +1,14 @@
 # Haiqing (Laurel) Liu - Data Analytics & Science Portfolio
 
-Welcome to my Data Analytics and Data Science portfolio! This repository serves as a comprehensive showcase of my expertise and projects in the realms of data analysis, machine learning, SQL databases, and interactive dashboards. 
+Welcome to my Data Analytics and Data Science portfolio! This repository serves as a showcase of my expertise and projects in the realms of data analysis, machine learning, SQL databases, and interactive dashboards. 
 
 ## Table of Contents
 
 - [Projects Overview](#projects-overview)
 - [What You'll Find](#what-youll-find)
 - [Python Projects](#python-projects)
-  - [YouTube Comment Sentiment Analysis](https://github.com/laureliu/Youtube-text-analysis)
-  - [Breast Cancer Classification](https://github.com/laureliu/breast-cancer-classification)
 - [SQL Projects](#sql-projects)
 - [Dashboard Projects](#dashboard-projects)
-  - [Park City Peaks Hotel](#park-city-peaks-hotel)
-  - [GreatFit](#greatfit)
-  - [MegaMart](#megamart)
-  - [Google Stocks](#google-stocks)
-  - [OLIST Logistics](#olist-logistics)
-  - [Adventure Works Sales and Shipping](#adventure-works-sales-and-shipping)
 - [Certifications](#certifications)
 - [Let's Connect](#lets-connect)
 
@@ -34,7 +26,6 @@ Each project folder contains:
 - Source code, including Jupyter notebooks, SQL scripts, and dashboard files, with detailed comments explaining the logic and techniques employed.
 - Visualizations and results, including charts, graphs, and interactive dashboard screenshots or links.
   
-
 ## Python Projects
 
 ### [YouTube Comment Sentiment Analysis](https://github.com/laureliu/Youtube-text-analysis)
@@ -68,12 +59,22 @@ Analyzed Adventure Works’ shipping and sales data, visualizing top shipping ci
 
 ## Certifications
 
-[Google Business Intelligence Professional Certificate](https://travis-ci.com/yourusername/yourrepositoryname.svg?branch=main)
+[Google Business Intelligence Professional Certificate](https://github.com/laureliu/data_analysis_portfolio/blob/main/Certificates/Google%20Business%20Intelligence%20Certificate.pdf)
+
+[IBM Python for Data Science, AI & Development](https://github.com/laureliu/data_analysis_portfolio/blob/main/Certificates/IBM%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
+
+[Data Analysis with Tableau](https://github.com/laureliu/data_analysis_portfolio/blob/main/Certificates/Data%20Analysis%20with%20Tableau.pdf)
+
+[Customer Analytics and A/B Testing in Python](https://github.com/laureliu/data_analysis_portfolio/blob/main/Certificates/Customer%20Analytics%20and%20A%3AB%20Testing%20in%20Python.pdf)
+
+[Customer Segmentation in Python](https://github.com/laureliu/data_analysis_portfolio/blob/main/Certificates/Customer%20Segmentation%20in%20Python.pdf)
+
+[Marketing Customer Analytics, Segmentation, and Targeting](https://github.com/laureliu/data_analysis_portfolio/blob/main/Certificates/Marketing%20Customer%20Analytics%2C%20Segmentation%2C%20and%20Targeting.pdf)
 
 
 ## Let's Connect
 
-I am eager to collaborate with fellow data enthusiasts and professionals. Whether you're interested in discussing project methodologies, exploring potential collaborations, or sharing feedback, please feel free to reach out.
+Whether you're interested in discussing project methodologies, exploring potential collaborations, or sharing feedback, please feel free to reach out.
 
 - LinkedIn: [@haiqingliu](https://www.linkedin.com/in/haiqingliu47/)
 - Email: haiqingliu21@gmail.com
