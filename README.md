@@ -2,12 +2,30 @@
 
 Welcome to my Data Analytics and Data Science portfolio! This repository serves as a comprehensive showcase of my expertise and projects in the realms of data analysis, machine learning, SQL databases, and interactive dashboards. 
 
+## Table of Contents
+
+- [Projects Overview](#projects-overview)
+- [What You'll Find](#what-youll-find)
+- [Python Projects](#python-projects)
+  - [YouTube Comment Sentiment Analysis](https://github.com/laureliu/Youtube-text-analysis)
+  - [Breast Cancer Classification](https://github.com/laureliu/breast-cancer-classification)
+- [SQL Projects](#sql-projects)
+- [Dashboard Projects](#dashboard-projects)
+  - [Park City Peaks Hotel](#park-city-peaks-hotel)
+  - [GreatFit](#greatfit)
+  - [MegaMart](#megamart)
+  - [Google Stocks](#google-stocks)
+  - [OLIST Logistics](#olist-logistics)
+  - [Adventure Works Sales and Shipping](#adventure-works-sales-and-shipping)
+- [Certifications](#certifications)
+- [Let's Connect](#lets-connect)
+
 ## Projects Overview
 
-- **Interactive Dashboards**: Visual storytelling with data through dynamic and interactive dashboards designed in Tableau/Power BI, providing insightful views into complex datasets.
-- **SQL Databases**: Demonstrations of complex SQL queries, database design, and optimization techniques for efficient data storage and retrieval.
 - **Python for Data Analysis**: A collection of notebooks featuring data manipulation, cleaning, and analysis using pandas, NumPy, and other Python libraries to uncover trends and patterns.
 - **Machine Learning Models**: Implementation of machine learning algorithms using scikit-learn and TensorFlow to predict outcomes, classify data, and uncover insights from both structured and unstructured data.
+- **Interactive Dashboards**: Visual storytelling with data through dynamic and interactive dashboards designed in Tableau/Power BI, providing insightful views into complex datasets.
+- **SQL Databases**: Demonstrations of complex SQL queries, database design, and optimization techniques for efficient data storage and retrieval.
 
 ## What You'll Find
 
@@ -47,6 +65,11 @@ Tracked order delivery status against estimated delivery dates, addressing custo
 
 ### Adventure Works Sales and Shipping
 Analyzed Adventure Works’ shipping and sales data, visualizing top shipping cities, sales per city, top customers, and sales agents to inform strategic decisions and customer engagement strategies. [View Dashboard](https://public.tableau.com/app/profile/haiqing.liu6498/viz/DashboardStory_17068065385170/AdventureWorksDashboard)
+
+## Certifications
+
+[Google Business Intelligence Professional Certificate](https://travis-ci.com/yourusername/yourrepositoryname.svg?branch=main)
+
 
 ## Let's Connect
 
