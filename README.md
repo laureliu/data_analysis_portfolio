@@ -39,6 +39,8 @@ The goal of this project was to develop a machine learning model to classify bre
 ### [Traffic Source Analysis and Optimization](https://github.com/laureliu/data_analysis_portfolio/tree/main/Traffic%20Source%20Analysis)
 This project focuses on analyzing and optimizing web traffic sources for an e-commerce platform. By examining website sessions, orders, and conversion rates, the project aims to identify top traffic sources, assess their effectiveness, and optimize bidding strategies for paid traffic. The analysis is grounded on data extracted from website_sessions and orders tables, focusing on key metrics such as session counts, order counts, and conversion rates.
 
+### [Website Traffic and Conversion Analysis](https://github.com/laureliu/data_analysis_portfolio/tree/main/Website%20Traffic%20and%20Conversion%20Analysis)
+This project aims to analyze website traffic, page views, bounce rates, and conversion paths on a website to identify areas for improvement and understand customer behavior better. By examining the most-viewed pages, entry pages, bounce rates, and conversion rates, the website manager can make informed decisions to optimize the site for better user engagement and increased conversions.
 
 ## Dashboard Projects
 
