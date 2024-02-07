@@ -42,6 +42,9 @@ This project focuses on analyzing and optimizing web traffic sources for an e-co
 ### [Website Traffic and Conversion Analysis](https://github.com/laureliu/data_analysis_portfolio/tree/main/Website%20Traffic%20and%20Conversion%20Analysis)
 This project aims to analyze website traffic, page views, bounce rates, and conversion paths on a website to identify areas for improvement and understand customer behavior better. By examining the most-viewed pages, entry pages, bounce rates, and conversion rates, the website manager can make informed decisions to optimize the site for better user engagement and increased conversions.
 
+### [Paid Search Impact on Website Performance](https://github.com/laureliu/data_analysis_portfolio/tree/main/Paid%20Search%20Impact%20on%20Website%20Performance)
+This project focuses on analyzing the impact of Google search (gsearch) as a key driver for business growth. By examining the trends in sessions and orders from gsearch, we aim to understand the effectiveness of marketing campaigns and device usage on customer engagement and conversion rates.
+
 ## Dashboard Projects
 
 ### Park City Peaks Hotel
