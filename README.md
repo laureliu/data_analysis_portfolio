@@ -48,6 +48,9 @@ This project focuses on analyzing the impact of Google search (gsearch) as a key
 ### [Digital Channel Performance Analysis and Optimization](https://github.com/laureliu/data_analysis_portfolio/tree/main/Analysis%20for%20Channel%20Portfolio%20Management)
 This project focuses on analyzing channel portfolios to understand the effectiveness and characteristics of different marketing channels, including weekly trends in session volumes, device type preferences, conversion rates, and the impact of bid changes across paid search channels such as Google Search (gsearch) and a secondary paid search channel (bsearch). Through this analysis, the company can gain insights into how different channels contribute to overall marketing objectives, enabling data-driven decision-making in marketing strategies.
 
+### [Seasonal Traffic Insights for Strategic Planning](https://github.com/laureliu/data_analysis_portfolio/tree/main/Seasonal%20Traffic%20Insights%20for%20Strategic%20Planning)
+The project delves into the analysis of historical website traffic and order data to unearth patterns of seasonality and daily customer behavior. By examining data from the previous year, this initiative aims to forecast demand, enabling businesses to make informed decisions regarding staffing, customer service, and marketing strategies. These insights offer a foundation for optimizing operational efficiency and enhancing the customer experience by aligning resource allocation with anticipated demand. 
+
 ## Dashboard Projects
 
 ### Park City Peaks Hotel
