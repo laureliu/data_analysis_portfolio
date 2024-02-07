@@ -45,6 +45,9 @@ This project aims to analyze website traffic, page views, bounce rates, and conv
 ### [Paid Search Impact on Website Performance](https://github.com/laureliu/data_analysis_portfolio/tree/main/Paid%20Search%20Impact%20on%20Website%20Performance)
 This project focuses on analyzing the impact of Google search (gsearch) as a key driver for business growth. By examining the trends in sessions and orders from gsearch, we aim to understand the effectiveness of marketing campaigns and device usage on customer engagement and conversion rates.
 
+### [Digital Channel Performance Analysis and Optimization](https://github.com/laureliu/data_analysis_portfolio/tree/main/Analysis%20for%20Channel%20Portfolio%20Management)
+This project focuses on analyzing channel portfolios to understand the effectiveness and characteristics of different marketing channels, including weekly trends in session volumes, device type preferences, conversion rates, and the impact of bid changes across paid search channels such as Google Search (gsearch) and a secondary paid search channel (bsearch). Through this analysis, the company can gain insights into how different channels contribute to overall marketing objectives, enabling data-driven decision-making in marketing strategies.
+
 ## Dashboard Projects
 
 ### Park City Peaks Hotel
