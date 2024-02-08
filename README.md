@@ -54,6 +54,9 @@ The project delves into the analysis of historical website traffic and order dat
 ### [Product Analysis](https://github.com/laureliu/data_analysis_portfolio/tree/main/Product%20Impact%20Analysis)
 This project conducts a product level sales analysis to understand how revenue and margin evolve with the introduction of new products. It aims to investigate the impact of new product launches on various key performance indicators (KPIs) such as conversion rates, average order value (AOV), and revenue per session. Additionally, the project explores product-level website pathing, product conversion funnels, cross-selling analysis, and the effects of product portfolio expansion.
 
+### [Customer Retention Analysis](https://github.com/laureliu/data_analysis_portfolio/tree/main/Customer%20Retention%20Analysis)
+This project delves into the analysis of repeat visitor behavior on a website, aiming to understand the patterns and tendencies of customers who return after their initial visit. The investigation covers various dimensions of repeat visits, including the frequency of repeat visits, time intervals between visits, channels through which repeat visitors return, and the conversion rates and revenue generated from new versus repeat sessions. Such analysis is pivotal for businesses seeking to optimize their marketing strategies, improve customer engagement, and ultimately increase their revenue and profitability.
+
 ## Dashboard Projects
 
 ### Park City Peaks Hotel
