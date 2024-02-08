@@ -51,6 +51,9 @@ This project focuses on analyzing channel portfolios to understand the effective
 ### [Seasonal Traffic Insights for Strategic Planning](https://github.com/laureliu/data_analysis_portfolio/tree/main/Seasonal%20Traffic%20Insights%20for%20Strategic%20Planning)
 The project delves into the analysis of historical website traffic and order data to unearth patterns of seasonality and daily customer behavior. By examining data from the previous year, this initiative aims to forecast demand, enabling businesses to make informed decisions regarding staffing, customer service, and marketing strategies. These insights offer a foundation for optimizing operational efficiency and enhancing the customer experience by aligning resource allocation with anticipated demand. 
 
+### [Product Analysis](https://github.com/laureliu/data_analysis_portfolio/tree/main/Product%20Impact%20Analysis)
+This project conducts a product level sales analysis to understand how revenue and margin evolve with the introduction of new products. It aims to investigate the impact of new product launches on various key performance indicators (KPIs) such as conversion rates, average order value (AOV), and revenue per session. Additionally, the project explores product-level website pathing, product conversion funnels, cross-selling analysis, and the effects of product portfolio expansion.
+
 ## Dashboard Projects
 
 ### Park City Peaks Hotel
