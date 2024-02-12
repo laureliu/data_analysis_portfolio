@@ -34,6 +34,9 @@ This project focuses on analyzing sentiments of YouTube comments and engagement 
 ### [Breast Cancer Classification](https://github.com/laureliu/data_analysis_portfolio/tree/main/Breast%20Cancer%20Classification)
 The goal of this project was to develop a machine learning model to classify breast cancer tumors into malignant or benign categories. Utilizing the Breast Cancer Wisconsin (Diagnostic) dataset, this project involved exploratory data analysis, feature scaling, model selection (SVC model), and parameter tuning with GridSearchCV for optimal performance.
 
+### [Fintech APP User Enrollment Prediction](https://github.com/laureliu/data_analysis_portfolio/tree/main/Fintech%20App%20User%20Enrollment%20Prediction)
+This project aims to predict which users of a fintech app's free version are least likely to upgrade to a paid subscription, facilitating targeted marketing strategies to improve conversion rates. It involves data cleaning, exploratory data analysis, feature engineering, and logistic regression modeling with L1 regularization to handle potential multicollinearity among features. The analysis revealed significant insights into user behavior and interaction patterns that influence subscription decisions, achieving a model accuracy of approximately 76.9%. This project underscores the effectiveness of leveraging machine learning techniques to enhance marketing efforts and optimize promotional expenditures in the fintech industry.
+
 ## SQL Projects
 
 ### [Traffic Source Analysis and Optimization](https://github.com/laureliu/data_analysis_portfolio/tree/main/Traffic%20Source%20Analysis)
